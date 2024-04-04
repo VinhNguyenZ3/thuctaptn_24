@@ -1,0 +1,25 @@
+{
+  "name": "thuctaptn",
+  "version": "1.0.0",
+  "description": "thực tập tốt nghiệp",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon --inspect index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/VinhNguyenZ3/thuctaptn_24.git"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "thevinh",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
